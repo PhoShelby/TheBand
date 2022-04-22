@@ -64,6 +64,9 @@
     .contact-info {
         line-height: 2;
     }
+    .contact-submit-btn {
+        font--size: 18px;
+    }
 }
 /* Tablet: width >= 700px and <= 1024px */
 @media (min-width: 46.25em) and (max-width: 63.9375em) {
