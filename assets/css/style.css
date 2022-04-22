@@ -286,6 +286,8 @@ list-style-type: none;
     margin-top: 15px;
     border: none;
     text-align: center;
+    appearance: none;
+    -webkit-appearance: none;
 }
 .btn:hover{
     color: #000;
