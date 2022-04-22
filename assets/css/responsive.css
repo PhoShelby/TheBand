@@ -50,6 +50,7 @@
     }
     .contact-form .form-control {
         padding: 15px;
+        font-size: 16px;
     }
     #footer .socials-list {
         font-size: 48px;
@@ -65,7 +66,7 @@
         line-height: 2;
     }
     .contact-submit-btn {
-        font--size: 18px;
+        font--size: 16px;
     }
 }
 /* Tablet: width >= 700px and <= 1024px */
